@@ -1,0 +1,4 @@
+outputs/
+ncg_007_results*.json
+__pycache__/
+*.py[cod]
